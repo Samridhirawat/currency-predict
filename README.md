@@ -7,6 +7,16 @@
 
 
 ## **2. Description**
-![WhatsApp Image 2024-06-20 at 8 47 35 PM](https://github.com/Samridhirawat/currency-predict/assets/172124279/808e3b60-0029-46c4-a607-d0eed99b4103)
+
+1. This project based on only paper currency
+
+2. This modal based and created on limited dataset
+
+
+3. Take the picture of the note clearly
+
+
+
+
 
 
